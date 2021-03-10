@@ -52,7 +52,7 @@ o de minúsculas a mayúsculas si está en minúsculas y guardarla en `apellido3
 """
 
 
-"""Crear variable `a_in_apellido` que contenga la cantidad de letras a que contiene 
+"""Crear variable `a_in_apellido` que contenga la cantidad de letras "a" que contiene 
 la variable `apellido2`.
 """
 
@@ -74,7 +74,7 @@ posición 78 de la lista `apellidos_list`.
 """
 
 
-"""Eliminar el 4 elemento de la variable `apellidos_list2`.
+"""Eliminar el 4to elemento de la variable `apellidos_list2`.
 """
 
 
