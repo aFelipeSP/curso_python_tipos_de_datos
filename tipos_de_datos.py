@@ -156,10 +156,6 @@ guardarlo en la variable `apellido_gonzalez`.
 """
 
 
-"""Eliminar el último elemento del diccionario `apellidos_dict`.
-"""
-
-
 """Sacar el valor de la llave "no_existe" del diccionario `apellidos_dict` y 
 guardarlo en la variable `apellido_none`.
 """
